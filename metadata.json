@@ -1,0 +1,7 @@
+{
+  "name": " İşBul",
+  "description": "Konum tabanlı iş bulma ve ilan verme platformu. İş arayanlar ve işverenler için hızlı, harita destekli çözüm.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
